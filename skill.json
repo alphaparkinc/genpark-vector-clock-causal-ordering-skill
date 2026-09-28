@@ -1,0 +1,9 @@
+{
+  "name": "genpark-vector-clock-causal-ordering-skill",
+  "version": "1.0.0",
+  "description": "Vector clock implementation for tracking causal event ordering, distributed concurrency, and happens-before relations across agent networks.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
